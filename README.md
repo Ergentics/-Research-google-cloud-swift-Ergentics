@@ -106,6 +106,12 @@ Contributions to this library are always welcome and highly encouraged.
 See [CONTRIBUTING] for more information on how to get started. You may also find
 the [Set Up Development Environment] guide useful.
 
+## Development Tool Acknowledgment
+
+This Ergentics repository uses [OpenAI Codex](https://openai.com/codex/) as an
+AI development assistant. Codex assisted with cloud development environment
+setup, build and test validation, and repository documentation.
+
 ## License
 
 Apache 2.0 - See [LICENSE] for more information.
