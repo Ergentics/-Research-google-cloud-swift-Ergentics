@@ -86,17 +86,17 @@ to the following guidelines when choosing a commit type:
 
 #### Scope
 
-The name of the crate affected by the change, which should be provided in
+The name of the Swift package affected by the change, which should be provided in
 parentheses before the colon. Please omit the `GoogleCloud` prefix (e.g., use
 `Storage` instead of `GoogleCloudStorage`).
 
 #### Description
 
-A short one-line summary of the change. It should complete written so to
-complete the sentence "This change modifies the crate to ..." That means it does
-not start with a capital letter, is not a complete sentence, and actually
-summarizes the result of the change. Note that the verb after the colon is
-lowercase, and there is no trailing period.
+A short one-line summary of the change. It should complete the sentence
+"This change modifies the package to ..." That means it does not start with a
+capital letter, is not a complete sentence, and actually summarizes the result
+of the change. Note that the verb after the colon is lowercase, and there is no
+trailing period.
 
 The first line should be kept as short as possible (many git viewing tools
 prefer under ~76 characters).
